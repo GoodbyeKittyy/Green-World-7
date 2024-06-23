@@ -493,3 +493,4 @@ Quote on |Sun, 23 Jun 2024 11:18:11 GMT| :  Love is the only force capable of tr
 Quote on |Sun, 23 Jun 2024 11:26:31 GMT| :  Programs must be written for people to read, and only incidentally for machines to execute. - Hal Abelson
 Quote on |Sun, 23 Jun 2024 11:35:06 GMT| :  Learning is finding out what you already know. - Richard Bach
 Quote on |Sun, 23 Jun 2024 11:43:11 GMT| :  Life is really simple, but we insist on making it complicated. - Confucius
+Quote on |Sun, 23 Jun 2024 11:51:20 GMT| :  Be courteous to all, but intimate with few, and let those few be well tried before you give them your confidence. - George Washington
